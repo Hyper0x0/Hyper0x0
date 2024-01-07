@@ -6,7 +6,7 @@ This repository aims to describe the skills and professional knowledge.
 # Work experiences
 ### NΞON Protocol (DCA)
 - Link: [neonprotocol.io](https://neonprotocol.io/)
-- Position: `Solidity Head Developer`
+- Position: `Backend Head Developer`
 - Date: `Jan 2022 - currently working`
 
 # Skills & Knowledge
