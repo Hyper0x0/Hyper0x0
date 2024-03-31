@@ -4,14 +4,17 @@ This repository aims to describe the skills and professional knowledge.
 `Backend` & `Solidity` developer.
 
 # Work experiences
-### NΞON Protocol
-- Link: [neonprotocol.io](https://neonprotocol.io/)
-- Position: `Backend Head Developer`
+### Nebula Labs
+- X: [@NebulaLabsOrg](https://twitter.com/NebulaLabsOrg)
+- Description: `Web3 Software House`
+- Position: `Co-Founder & Backend Head Developer`
 - Date: `Jan 2022 - currently working`
-### Tropicalswap
-- Link: [tropicalswap.exchange](https://tropicalswap.exchange/?chain=mnt)
-- Position: `Tech Advisor`
-- Date: `Mar 2024 - currently working`
+
+# Projects
+### NΞON Protocol
+- X: [@NEONprotocolio](https://twitter.com/NEONprotocolio)
+- App: [neonprotocol.io](https://neonprotocol.io/)
+- Description: `DCA protocols`
 
 # Languages and Tools:
 ### Backend
