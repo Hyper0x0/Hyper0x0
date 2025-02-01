@@ -3,18 +3,16 @@
 This repository aims to describe the skills and professional knowledge.
 `Backend` & `Solidity` developer.
 
-# Work experiences
-### Nebula Labs
-- X: [@NebulaLabsOrg](https://twitter.com/NebulaLabsOrg)
-- Description: `Web3 Software House`
-- Position: `Co-Founder & Backend Head Developer`
-- Date: `Jan 2022 - currently working`
-
 # Projects
 ### NΞON Protocol
 - X: [@NEONprotocolio](https://twitter.com/NEONprotocolio)
 - App: [neonprotocol.io](https://neonprotocol.io/)
 - Description: `DCA protocols`
+
+### Seal Of Proof
+- X: [@SealOfProof](https://x.com/SealOfProof)
+- App: Soon
+- Description: `Web3 Certification`
 
 # Languages and Tools:
 ### Backend
