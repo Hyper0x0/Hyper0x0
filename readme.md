@@ -11,7 +11,7 @@ This repository aims to describe the skills and professional knowledge.
 
 ### Seal Of Proof
 - X: [@SealOfProof](https://x.com/SealOfProof)
-- App: Soon
+- App: [sealofproof.com](https://sealofproof.com/)
 - Description: `Web3 Certification`
 
 # Languages and Tools:
