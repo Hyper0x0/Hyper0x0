@@ -7,6 +7,7 @@ This repository aims to describe the skills and professional knowledge.
 
 - [neonprotocol.io](https://neonprotocol.io/) DCA protocols
 - [sealofproof.com](https://sealofproof.com/) Web3 Certification
+- [shiftprotocol.xyz](https://shiftprotocol.xyz/) Delta Neutral
 
 ### Skills
 #### Programming languages
