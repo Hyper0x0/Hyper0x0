@@ -1,8 +1,7 @@
-# 👋 Hyper0x0 — Backend & Solidity Developer
+# 👋 Hyper0x0 — Solidity & Backend Developer
 
 Welcome!  
-I'm the **Lead Solidity Developer at [NebulaLabs](https://nebulalabs.io)**, specializing in Web3 and DeFi solutions with a strong focus on security, scalability, and API architecture.  
-I work end-to-end on both smart contract and backend development for decentralized finance products.
+I'm the **Lead Solidity Developer** at **NebulaLabs**, specializing in Web3 and DeFi solutions with a strong focus on security, scalability, clean code and architecture.  
 
 Connect with me:  
 <a href="https://x.com/hyper0x0" target="_blank">
