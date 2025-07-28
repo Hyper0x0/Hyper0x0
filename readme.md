@@ -15,8 +15,8 @@ Connect with me:
 
 ## 🏅 Certifications
 
-[![Chainlink Fundamentals 2025](https://img.shields.io/badge/Chainlink-Fundamentals-blue?logo=chainlink)](https://profiles.cyfrin.io/u/hyper0x0/achievements/chainlink-fundamentals)
-[![Blockchain Basis 2025](https://img.shields.io/badge/Blockchain-Basis-blueviolet?logo=ethereum)](https://profiles.cyfrin.io/u/hyper0x0/achievements/blockchain-basics)
+[![Chainlink Fundamentals 2025](https://img.shields.io/badge/Chainlink-Fundamentals-blue?logo=chainlink)](https://profiles.cyfrin.io/u/hyper0x0/certificates/chainlink-fundamentals)
+[![Blockchain Basis 2025](https://img.shields.io/badge/Blockchain-Basis-blueviolet?logo=ethereum)](https://profiles.cyfrin.io/u/hyper0x0/certificates/blockchain-basics)
 
 ---
 
