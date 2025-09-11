@@ -28,8 +28,6 @@ Connect with me:
 
 ## 🚀 Projects
 
-_Products by NebulaLabs:_
-
 ### Neon Protocol
 
 Lead Solidity & Backend Developer for automated DCA strategies on digital assets.  
@@ -117,6 +115,7 @@ Protocol design, contract logic, backend services, security.
 - [ethers.js](https://docs.ethers.io)
 - [web3.js](https://web3js.readthedocs.io)
 - [OpenZeppelin](https://docs.openzeppelin.com/)
+- [starknet.js](https://starknetjs.com/)
 
 ### Operating Systems
 
