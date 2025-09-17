@@ -1,14 +1,11 @@
 # 👋 Hyper0x0 — Solidity & Backend Developer
 
 Welcome!  
-I'm the **Lead Solidity Developer** at **NebulaLabs**, specializing in Web3 and DeFi solutions with a strong focus on security, scalability, clean code and architecture.  
+I'm the **Co-Founder** & **Lead Solidity Developer** at **Shift Protocol**, specializing in Web3 and DeFi solutions with a strong focus on security, scalability, clean code and architecture.  
 
 Connect with me:  
 <a href="https://x.com/hyper0x0" target="_blank">
     <img alt="Hyper0x0 on X" src="https://img.shields.io/badge/Hyper0x0-000000?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
-<a href="https://x.com/NebulaLabsOrg" target="_blank">
-    <img alt="NebulaLabs on X" src="https://img.shields.io/badge/NebulaLabs-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 
 ---
