@@ -14,6 +14,7 @@ Connect with me:
 
 [![Chainlink Fundamentals 2025](https://img.shields.io/badge/Chainlink-Fundamentals-blue?logo=chainlink)](https://profiles.cyfrin.io/u/hyper0x0/certificates/chainlink-fundamentals)
 [![Blockchain Basis 2025](https://img.shields.io/badge/Blockchain-Basis-blueviolet?logo=ethereum)](https://profiles.cyfrin.io/u/hyper0x0/certificates/blockchain-basics)
+[![Claude Code 2026](https://img.shields.io/badge/Claude-Code-orange?logo=claude)](http://verify.skilljar.com/c/uwri562cc6bj)
 
 ---
 
