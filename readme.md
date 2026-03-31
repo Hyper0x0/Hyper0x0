@@ -1,159 +1,134 @@
-# 👋 Hyper0x0 — Solidity & Backend Developer
+# Hyper0x0
 
-Welcome!  
-I'm the **Co-Founder** & **Lead Solidity Developer** at **Shift Protocol**, specializing in Web3 and DeFi solutions with a strong focus on security, scalability, clean code and architecture.  
+Co-Founder & Lead Solidity Developer · Shift Protocol · Web3 / DeFi Security & Architecture
 
-Connect with me:  
-<a href="https://x.com/hyper0x0" target="_blank">
-    <img alt="Hyper0x0 on X" src="https://img.shields.io/badge/Hyper0x0-000000?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
+[![X](https://img.shields.io/badge/@hyper0x0-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/hyper0x0)
 
 ---
 
 ## 🏅 Certifications
 
-[![Chainlink Fundamentals 2025](https://img.shields.io/badge/Chainlink-Fundamentals-blue?logo=chainlink)](https://profiles.cyfrin.io/u/hyper0x0/certificates/chainlink-fundamentals)
-[![Blockchain Basis 2025](https://img.shields.io/badge/Blockchain-Basis-blueviolet?logo=ethereum)](https://profiles.cyfrin.io/u/hyper0x0/certificates/blockchain-basics)
-[![Claude Code 2026](https://img.shields.io/badge/Claude-Code-orange?logo=claude)](http://verify.skilljar.com/c/uwri562cc6bj)
+| | Certificate | | Year |
+| --- | --- | --- | --- |
+| [![Chainlink](https://img.shields.io/badge/Cyfrin-Chainlink%20Fundamentals-375BD2?style=flat-square&logo=chainlink&logoColor=white)](https://profiles.cyfrin.io/u/hyper0x0/certificates/chainlink-fundamentals) | Chainlink Fundamentals | [↗ verify](https://profiles.cyfrin.io/u/hyper0x0/certificates/chainlink-fundamentals) | 2025 |
+| [![Blockchain](https://img.shields.io/badge/Cyfrin-Blockchain%20Basics-627EEA?style=flat-square&logo=ethereum&logoColor=white)](https://profiles.cyfrin.io/u/hyper0x0/certificates/blockchain-basics) | Blockchain Basics | [↗ verify](https://profiles.cyfrin.io/u/hyper0x0/certificates/blockchain-basics) | 2025 |
+| [![Claude](https://img.shields.io/badge/Anthropic-Claude%20Code-D4A27A?style=flat-square&logo=anthropic&logoColor=white)](http://verify.skilljar.com/c/uwri562cc6bj) | Claude Code | [↗ verify](http://verify.skilljar.com/c/uwri562cc6bj) | 2026 |
+
+📚 **Cyfrin Updraft** — Web3, Solidity & DeFi course achievements &nbsp;→&nbsp; [↗ verify](https://profiles.cyfrin.io/u/hyper0x0/achievements)
 
 ---
 
-## 📚 Courses
+## 💻 Languages
 
-- [Cyfrin Updraft](https://profiles.cyfrin.io/u/hyper0x0/achievements) — Achievements in Web3, Solidity, and DeFi.
-
----
-
-## 🚀 Projects
-
-### Neon Protocol
-
-Lead Solidity & Backend Developer for automated DCA strategies on digital assets.  
-Architecture, smart contracts, backend APIs, and integrations.  
-<p>
-  <a href="https://neonprotocol.io" target="_blank"><img alt="Site" src="https://img.shields.io/badge/Site-Neon%20Protocol-0fc7fa?style=for-the-badge"/></a>
-  <a href="https://x.com/NEONprotocolio" target="_blank"><img alt="NeonProtocol on X" src="https://img.shields.io/badge/NeonProtocol-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-</p>
-
-### Shift Protocol
-
-Lead Solidity & Backend Developer for delta-neutral strategies in DeFi.  
-Protocol design, contract logic, backend services, security.  
-<p>
-  <a href="https://shiftprotocol.xyz" target="_blank"><img alt="Site" src="https://img.shields.io/badge/Site-Shift%20Protocol-0fc7fa?style=for-the-badge"/></a>
-  <a href="https://x.com/SHIFTYieldFi" target="_blank"><img alt="ShiftProtocol on X" src="https://img.shields.io/badge/ShiftProtocol-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-</p>
+[![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)](https://docs.soliditylang.org)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ---
 
-## 💻 Skills
+## 🚀 Frameworks & Runtimes
 
-### Programming Languages
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org)
+[![Foundry](https://img.shields.io/badge/Foundry-333333?style=for-the-badge)](https://getfoundry.sh)
+[![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logoColor=black)](https://hardhat.org)
 
-<p>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img alt="JavaScript"
-        src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/></a>
-    <a href="https://docs.soliditylang.org" target="_blank"><img alt="Solidity"
-        src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black"/></a>
-    <a href="https://www.typescriptlang.org" target="_blank"><img alt="TypeScript"
-        src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/></a>
-</p>
+---
 
-### Frameworks & Runtime Environments
+## 🔗 Web3 Stack
 
-<p>
-    <a href="https://nodejs.org" target="_blank"><img alt="Node.js"
-        src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/></a>
-</p>
+### Smart Contract Libraries
 
-- [Hardhat](https://hardhat.org)
-- [Foundry](https://getfoundry.sh/)
+[![OpenZeppelin](https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=for-the-badge&logo=openzeppelin&logoColor=white)](https://docs.openzeppelin.com)
+[![Chainlink](https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=white)](https://chain.link)
+[![LayerZero](https://img.shields.io/badge/LayerZero-333333?style=for-the-badge)](https://layerzero.network)
 
-### Package & Environment Management
+### JS / TS Libraries
 
-<p>
-    <a href="https://www.npmjs.com" target="_blank"><img alt="npm"
-        src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/></a>
-</p>
+[![ethers.js](https://img.shields.io/badge/ethers.js-2535A0?style=for-the-badge)](https://docs.ethers.io)
+[![web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge)](https://web3js.readthedocs.io)
+[![starknet.js](https://img.shields.io/badge/starknet.js-EC796B?style=for-the-badge)](https://starknetjs.com)
 
-### Tooling, Platforms & Infrastructure
+### Protocols & Concepts
 
-<p>
-    <a href="https://www.cloudflare.com" target="_blank"><img alt="Cloudflare"
-        src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white"/></a>
-    <a href="https://git-scm.com" target="_blank"><img alt="Git"
-        src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/></a>
-    <a href="https://www.heroku.com/" target="_blank"><img alt="Heroku"
-        src="https://img.shields.io/badge/heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/></a>
-    <a href="https://render.com/" target="_blank"><img alt="Render"
-        src="https://img.shields.io/badge/render-000000?style=for-the-badge&logo=render&logoColor=white"/></a>
-    <a href="https://www.digitalocean.com/" target="_blank"><img alt="DigitalOcean"
-        src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white"/></a>
-    <a href="https://www.vmware.com/" target="_blank"><img alt="VMware"
-        src="https://img.shields.io/badge/vmware-607078?style=for-the-badge&logo=vmware&logoColor=white"/></a>
-    <a href="https://github.com/" target="_blank"><img alt="GitHub"
-        src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-    <a href="https://www.wireshark.org/" target="_blank"><img alt="Wireshark"
-        src="https://img.shields.io/badge/wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/></a>
-</p>
+`Cross-chain messaging (LayerZero)` &nbsp; `DCA strategies` &nbsp; `Delta-neutral strategies` &nbsp; `ERC standards` &nbsp; `AMM / DEX mechanics` &nbsp; `Web2–Web3 integration` &nbsp; `Smart contract security`
 
-- [VSCode](https://code.visualstudio.com/)
-- [RemixIDE](https://remix.ethereum.org/)
-- [Gelato](https://app.gelato.network/)
+---
 
-### Libraries
+## 🛠 Tooling & Infrastructure
 
-<p>
-    <a href="https://sequelize.org/" target="_blank"><img alt="Sequelize"
-        src="https://img.shields.io/badge/sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white"/></a>
-    <a href="https://expressjs.com/" target="_blank"><img alt="Express"
-        src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white"/></a>
-</p>
+### Cloud & Hosting
 
-- [ethers.js](https://docs.ethers.io)
-- [web3.js](https://web3js.readthedocs.io)
-- [OpenZeppelin](https://docs.openzeppelin.com/)
-- [starknet.js](https://starknetjs.com/)
+[![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)](https://www.digitalocean.com)
+[![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)](https://www.cloudflare.com)
+[![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://www.heroku.com)
+[![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white)](https://render.com)
+[![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)](https://www.vmware.com)
 
-### Operating Systems
+### Version Control & Docs
 
-<p> 
-    <a href="https://ubuntu.com" target="_blank"><img alt="Ubuntu"
-        src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/></a>
-    <a href="https://www.microsoft.com/en-gb/windows" target="_blank"><img alt="Windows"
-        src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/></a>
-</p>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
+[![GitBook](https://img.shields.io/badge/GitBook-3884FF?style=for-the-badge&logo=gitbook&logoColor=white)](https://www.gitbook.com)
+
+### Web3 Tooling
+
+[![Alchemy](https://img.shields.io/badge/Alchemy-363FF9?style=for-the-badge&logo=alchemy&logoColor=white)](https://www.alchemy.com)
+[![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white)](https://ipfs.tech)
+[![Gelato](https://img.shields.io/badge/Gelato-FF3B57?style=for-the-badge)](https://app.gelato.network)
+[![Tenderly](https://img.shields.io/badge/Tenderly-1C1E26?style=for-the-badge)](https://tenderly.co)
+[![RemixIDE](https://img.shields.io/badge/RemixIDE-2B2B2B?style=for-the-badge)](https://remix.ethereum.org)
+
+### Backend Libraries
+
+[![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com)
+[![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)](https://sequelize.org)
+[![Drizzle](https://img.shields.io/badge/Drizzle-000000?style=for-the-badge)](https://orm.drizzle.team)
+[![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)](https://jwt.io)
+
+### Security
+
+[![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)](https://www.wireshark.org)
+
+### Project Management
+
+[![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
+[![YouTrack](https://img.shields.io/badge/YouTrack-000000?style=for-the-badge&logo=jetbrains&logoColor=white)](https://www.jetbrains.com/youtrack)
 
 ---
 
 ## 🧠 Knowledge Areas
 
-### Cybersecurity
-
-- Symmetric and asymmetric encryption (AES, RSA)
-- Hashing algorithms (SHA)
-
-### Technical Expertise
-
-- API management
-- Application architecture & design
-- Team leadership & development management
-- Web2-Web3 integration
+| Domain | Topics |
+| --- | --- |
+| Architecture | Application design, API management |
+| Cryptography | AES / RSA encryption, SHA hashing |
+| Leadership | Team management, Agile, code reviews |
 
 ---
 
-## 🤝 Soft Skills
+## 🚀 Projects
 
-- Problem solving & troubleshooting
-- Team leadership & mentoring
-- Agile development & code reviews
-- Technical communication (English)
+### Shift Protocol
+
+**Co-Founder · Lead Solidity & Backend Developer**
+
+Delta-neutral DeFi strategies — protocol design, contract logic, backend services, security.
+
+[![Site](https://img.shields.io/badge/shiftprotocol.xyz-0fc7fa?style=for-the-badge)](https://shiftprotocol.xyz)
+[![X](https://img.shields.io/badge/@ShiftProtocol__-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ShiftProtocol_)
+
+### Neon Protocol
+
+**Lead Solidity & Backend Developer**
+
+Automated DCA strategies on digital assets — architecture, smart contracts, backend APIs, integrations.
+
+[![Site](https://img.shields.io/badge/neonprotocol.io-0fc7fa?style=for-the-badge)](https://neonprotocol.io)
+[![X](https://img.shields.io/badge/@NEONprotocolio-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/NEONprotocolio)
 
 ---
 
-## 🌐 Languages
+## 🌐 Spoken Languages
 
-<a href="https://www.italianlanguageguide.com/" target="_blank"><img alt="Italian"
-    src="https://img.shields.io/badge/Italian-native-green?style=for-the-badge"/></a>
-<a href="https://en.wikipedia.org/wiki/English_language" target="_blank"><img alt="English"
-    src="https://img.shields.io/badge/English-fluent-blue?style=for-the-badge"/></a>
+[![Italian](https://img.shields.io/badge/🇮🇹_Italian-native-2ecc71?style=for-the-badge)](https://en.wikipedia.org/wiki/Italian_language)
+[![English](https://img.shields.io/badge/🇬🇧_English-fluent-3498db?style=for-the-badge)](https://en.wikipedia.org/wiki/English_language)
